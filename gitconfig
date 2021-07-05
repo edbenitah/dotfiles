@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = edbenitah@gmail.com
+	name = edouard benitah
